@@ -14,6 +14,5 @@
  
  ### Studying in this moment:
 ![C#](https://img.shields.io/badge/-CSharp-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Pyhton-0D1117?style=for-the-badge&logo=pyhton&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 📫 E-mail: beatrizmed1@outlook.com
