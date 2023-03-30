@@ -12,7 +12,9 @@
 <a href="https://www.linkedin.com/in/beatrizmed1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
- ### Studying in this moment:
+ ### Estudando:
 ![C#](https://img.shields.io/badge/-CSharp-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=.net&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-0D1117?style=for-the-badge&logo=asp&logoColor=1572B6&labelColor=0D1117)&nbsp;  
 
 📫 E-mail: beatrizmed1@outlook.com
